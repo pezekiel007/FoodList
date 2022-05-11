@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Food List</string>
+
+    <string name="pap">Akara and Pap</string>
+    <string name="brown_rice">Brown Rice and Salmon</string>
+    <string name="custard">Custard and Epiti</string>
+    <string name="egusi_soup">Egusi and Fufu</string>
+    <string name="beans_plantain">Beans and Plantain</string>
+    <string name="beans">Fried Beans</string>
+    <string name="fried_rice">Fried Rice and Grilled Chicken</string>
+    <string name="jollof_rice">Jollof Rice and Tuna</string>
+    <string name="ofada_and_sauce">Ofada Rice and Assorted Sauce</string>
+    <string name="ofada_and_stew">Ofada Rice and Stew</string>
+    <string name="oziza_soup">Oziza Soup</string>
+    <string name="tea_and_sandwich">Tea and Sandwich</string>
+    <string name="vegie_fried_rice">Vegetable Fried Rice</string>
+    <string name="steamed_rice">White Rice and Grilled Salmon</string>
+    <string name="yam_and_sauce">Yam, Plantain and Egg Sauce</string>
+
+    <string name="price_1">$50</string>
+    <string name="price_2">$55</string>
+    <string name="price_3">$60</string>
+    <string name="price_4">$65</string>
+    <string name="price_5">$70</string>
+    <string name="price_6">$75</string>
+    <string name="price_7">$80</string>
+    <string name="price_8">$85</string>
+    <string name="price_9">$90</string>
+    <string name="price_10">$95</string>
+    <string name="price_11">$100</string>
+    <string name="price_12">$110</string>
+    <string name="price_13">$115</string>
+    <string name="price_14">$120</string>
+    <string name="price_15">$150</string>
+    <string name="images_of_the_dishes">Images of the dishes</string>
+    <string name="food">Food</string>
+    <string name="prices">Prices</string>
+
+</resources>
